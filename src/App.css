@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@plugin "daisyui/theme" {
+  name: "coplace";
+
+  --p: #00adee;
+  --s: #1b4772;
+  --a: #a5d97a;
+  --n: #223168;
+
+  --b1: #f8fafc;
+  --b2: #f1f5f9;
+  --b3: #e2e8f0;
+
+  --er: #f35f41;
+
+  --bgGreen: #a5d97a;
+}
